@@ -1,9 +1,0 @@
-<html lang="en">
-  <head>
-  <title>Daten ins Session-Array schreiben</title>
-  </head>
-  <body>
-    Sessionvariablen wurden gesetzt
-    <p><a href="daten_lesen.php?PHPSESSID=3halt0oohi941e2d0paja798r2">Daten auslesen ...</a></p>
-  </body>
-</html>

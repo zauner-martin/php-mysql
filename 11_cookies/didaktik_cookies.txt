@@ -1,3 +1,0 @@
-- Was sind Sessions: einfache Erklärung 10 minütiger Besuch eines Webshops um Daten zwischen Seiten zu transportieren
-- Hinweis Drittanbieter-Cookies: In Firefox alle Cookies löschen, auf Seite Website der Presse gehen und zusätzliche Cookies zeigen, 2 Cookies erscheinen erneut, dann Drittanbieter-Cookies NIE akzeptieren, es erscheint nur mehr das Cookie von diepresse.com, anschließend einen Artikel klicken und Cookies erneut checken
-

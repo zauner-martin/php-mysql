@@ -1,7 +1,0 @@
-- Was sind Sessions: einfache Erklärung 10 minütiger Besuch eines Webshops um Daten zwischen Seiten zu transportieren
-- Wo werden Sessions gespeichert: am Server, der Client erhält nur eine Session-ID (32-stelliger Hexadezimalwert)
-- Anpassung der php.ini:
-	- session.save_path (Speicherpfad) nicht notwendig
-	- session.use_trans-sid (Link-Ergänzung um Session-ID) notwendig
-	- session.use_cookies bez. session_use_only_cookies (Cookies zulassen: wenigstens eine Einstellung muss auf true gestellt sein, falls Link-Ergänzung um Session-ID gewünscht, Browser muss Cookies akzeptieren; Hinweis: in Firefox Cookies anzeigen und im .../tmp-Ordner am Server Session-Datei zeigen)
-

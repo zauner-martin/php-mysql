@@ -3,8 +3,6 @@
   deklariert werden. Meistens muss sich der Programmierer nicht
   um den Datentyp kümmern - aber eben nur meistens!*/
 
-  //Einige Beispiele für Datentypen:
-
   //---Datentyp Zeichenketten (string)---
   echo "McDonalds'-Esser: \"Ich liebe es!\"<br>";
 

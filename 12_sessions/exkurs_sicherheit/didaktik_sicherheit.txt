@@ -1,0 +1,2 @@
+- Zeigen, dass eine php-Datei vom Server als User ohne spezielle Rechte nicht heruntergeladen werden kann (weder Herunterladen über Browser noch über curl-Modul)
+- Auf Gefahr hinweisen, dass bei über curl-Modul die Session-ID mitgeliefert wird - sofern session.use_trans_sid auf true gesetzt

@@ -9,7 +9,7 @@ $monat = intval(date("m", $anschaffungsDatum));
 if ($anschaffungsWert <= 400) {
   echo "Sofort abschreiben";
 } else {
-  if ($monat <= 6) {
+  if ($monat > 6) {
     echo "Halbjahres-AfA";
   } else {
     echo "Ganzjahres-AfA";
